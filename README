@@ -1,5 +1,5 @@
 
-Kepler Science Team project started in summer 2016 with then-postdoc Megan Shabram.  We developed code to compare Kepler exoplanet candidate occurrence rate calculation methodologies. 
+Kepler Science Team project started in summer 2016 with (then NASA postdoc) Megan Shabram.  We developed code to compare Kepler exoplanet candidate occurrence rate calculation methodologies. 
 
 GOAL: Include planet radius measurement uncertainty in the inhomogeneous Poisson point processes occurrence rate model using hierarchical Bayesian modeling and a Hamiltonian Monte Carlo sampler.    
 
