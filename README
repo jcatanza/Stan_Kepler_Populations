@@ -1,5 +1,5 @@
 
-Kepler Science Team project started in summer 2016 with (then NASA postdoc) Megan Shabram.  We developed code to compare Kepler exoplanet candidate occurrence rate calculation methodologies. Using the pySTAN package, we created a Hierarchical Bayesian Model to incorporate planet radius measurement uncertainty into exoplanet occurrence rate calculations. Initial code (prior to Sept 2016) was primarily written by Joseph Catanzarite.
+This project was undertaken in summer 2016 at the NASA Ames Research Center in Mountain View, CA with (then NASA postdoc) Megan Shabram, when we were both on the Kepler Science Team.  We developed code to compare Kepler exoplanet candidate occurrence rate calculation methodologies. Using the pySTAN package, we created a Hierarchical Bayesian Model to incorporate planet radius measurement uncertainty into exoplanet occurrence rate calculations. Initial code (prior to Sept 2016) was primarily written by Joseph Catanzarite.
 
 GOAL: Include planet radius measurement uncertainty in the inhomogeneous Poisson point processes occurrence rate model using hierarchical Bayesian modeling and a Hamiltonian Monte Carlo sampler.    
 
